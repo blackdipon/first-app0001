@@ -1,1 +1,2 @@
-worker: python first-app0001.py
+worker: python app.py
+
